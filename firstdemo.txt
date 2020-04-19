@@ -1,3 +1,7 @@
 This is alrady having file please pull it.
 Now this file is chnged by another person.
+<<<<<<< HEAD
 I am a java developer.
+=======
+again one line is added.
+>>>>>>> c2e8ceca7bf9c361c89393214a669d7fb5b01c64
